@@ -96,12 +96,11 @@
 
 .slider__info {
   position: absolute;
-  padding-top: 268px;
   margin-left: 200px;
   width: 703px;
   height: 364px;
   right: 200px !important;
-  top: 0px;
+  top: 268px;
 }
 
 .slider__title {
