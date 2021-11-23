@@ -555,7 +555,7 @@
 }
 
 .main__swiper_left {
-  background-image: url("/assets/img/card/Arrow1.png");
+  background-image: url("../img/card/Arrow1.png");
   display: flex;
   justify-content: center;
   align-items: center;
@@ -573,7 +573,7 @@
 }
 
 .main__swiper_right {
-  background-image: url("/assets/img/card/Arrow2.png");
+  background-image: url("../img/card/Arrow2.png");
   display: flex;
   justify-content: center;
   align-items: center;
