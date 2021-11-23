@@ -562,7 +562,7 @@
 }
 
 .main__swiper_left {
-  background-image: url("/assets/img/card/Arrow1.png");
+  background-image: url("../img/card/Arrow1.png");
   display: flex;
   justify-content: center;
   align-items: center;
@@ -580,7 +580,7 @@
 }
 
 .main__swiper_right {
-  background-image: url("/assets/img/card/Arrow2.png");
+  background-image: url("../img/card/Arrow2.png");
   display: flex;
   justify-content: center;
   align-items: center;
@@ -696,7 +696,7 @@
 }
 
 .table {
-  background-image: url(/assets/img/shutterstock_1859261173.png);
+  background-image: url(../img/shutterstock_1859261173.png);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
