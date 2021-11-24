@@ -1029,11 +1029,9 @@ display: none;
     }
 }
 @media screen and (max-width: 800px) {
-    // .slider__info{
-    //     margin-left: 0;
-    //     right: 0;
-    // }
-    
+   .table__wrapper {
+    right: 150px;
+  }
     .nav__wrapper{
         width: 450px;
     }
@@ -1079,76 +1077,42 @@ display: none;
     .nav .social{
         margin: 0 15px;
     }
-    // .slider__imageGames{
-    //     margin-left: -30px;
-    // }
+    
     .slider__title{
         font-size: 30px;
     }
-    // .slider__description{
-    //     max-width: 330px;
-    // }
-    // .slider__buttons{
-    //     margin-left: -100px;
-    // }
     .stages__wrapper{
         padding-top: 10px;
     }
-    
-    // .stages__info{
-    //     margin-bottom: 40px;
-    // }
     .table__wrapper{
-        right: 90px;
+        right: 40px;
     }
     .fotter-links{
         right: 150px;
     }
 }
+@media screen and (max-width: 487px){
+  .table__wrapper {
+    right: 20px;
+  }
+}
 @media screen and (max-width: 465px){
     
-    // .slider__imageGames{
-    //     margin-left: -85px;
-    // }
-    // .slider__title{
-    //     margin-left: -40px;
-    // }
-    // .slider__description{
-    //     margin-left: -40px;
-    // }
-    // .slider__buttons{
-    //     margin-left: -160px;
-    // }+
     .stages__wrapper{
         height: 700px !important;
     }
     
     .table__wrapper{
-        right: 40px;
+        right: 0px;
     }
-    // .stages__info{
-    //     margin-bottom: 55px;
-    // }
     .fotter-links{
         right: 100px;
     }
 }
-@media screen and (max-width: 410px){
+@media screen and (max-width: 430px){
     
-    // .slider__imageGames{
-    //     margin-left: -110px;
-    // }
-    // .slider__title{
-    //     margin-left: -70px;
-    // }
-    // .slider__description{
-    //     margin-left: -80px;
-    // }
-    // .slider__buttons{
-    //     margin-left: -180px;
-    // }
     .table__wrapper{
-        right: 10px;
+        right: -6px;
     }
 }
 @media screen and (max-width: 375px){
@@ -1219,7 +1183,7 @@ display: none;
         }
         .table__wrapper{
             max-width: 300px;
-            right: 10px;
+            right: 3px;
         }
         .slider__description {
             max-width: 310px;
