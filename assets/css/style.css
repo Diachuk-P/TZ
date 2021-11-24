@@ -964,7 +964,7 @@
 
 @media screen and (max-width: 375px) {
   .slider__info{
-        margin-right: -90px;
+        margin-right: -70px;
     }
   .slider__imageGames {
     margin-left: -105px;
@@ -1013,6 +1013,10 @@
   .fotter-links {
     right: 40px;
   }
+  @media screen and (max-width: 345px){
+    .slider__info{
+        margin-right: -100px;
+    }
 }
 
 .deadline-message {
