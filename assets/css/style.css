@@ -873,6 +873,9 @@
 }
 
 @media screen and (max-width: 584px) {
+  .slider__info{
+        margin-right: -90px;
+    }
   .nav__wrapper {
     width: 300px;
   }
@@ -961,7 +964,7 @@
 
 @media screen and (max-width: 375px) {
   .slider__info{
-        margin-right: -100px;
+        margin-right: -90px;
     }
   .slider__imageGames {
     margin-left: -105px;
