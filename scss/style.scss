@@ -1112,6 +1112,9 @@ display: none;
     }
 }
 @media screen and (max-width: 375px){
+    .slider__info{
+        margin-right: -100px;
+    }
     .slider__imageGames{
         margin-left: -105px;
     }
