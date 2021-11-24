@@ -1012,6 +1012,9 @@
    .slider__description {
     max-width: 310px;
   }
+  .slider__buttons .getTickets-button {
+            margin: 0px;
+        }
 }
 
 .deadline-message {
