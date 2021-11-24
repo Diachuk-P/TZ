@@ -858,7 +858,7 @@
 
 @media screen and (max-width: 700px) {
   .slider__info{ 
-    margin-right: -100px;
+    margin-right: -80px;
   }
   .table table {
     width: 352px;
@@ -960,6 +960,9 @@
 }
 
 @media screen and (max-width: 375px) {
+  .slider__info{
+        margin-right: -100px;
+    }
   .slider__imageGames {
     margin-left: -105px;
   }
