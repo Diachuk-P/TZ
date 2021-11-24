@@ -969,7 +969,7 @@
   }
   .slider__description {
     font-size: 16px;
-    max-width: 310px;
+    max-width: 350px;
   }
   .stages__hr {
     display: none;
@@ -1008,6 +1008,9 @@
   .table__wrapper {
     max-width: 300px;
     right: 10px;
+  }
+   .slider__description {
+    max-width: 310px;
   }
 }
 
