@@ -966,9 +966,7 @@
 }
 
 @media screen and (max-width: 430px) {
-  .table__wrapper {
-    right: -6px;
-  }
+  
   .table__howManyUsers{
         font-size: 28px
     }
