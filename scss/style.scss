@@ -977,6 +977,10 @@ display: none;
     text-decoration: none;
 }
 @media screen and (max-width: 1355px){
+    .header_info {
+     display: flex;
+    justify-content: center;
+    }
     .stages__wrapper{
         -webkit-box-pack: center;
             -ms-flex-pack: center;
