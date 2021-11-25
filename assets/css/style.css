@@ -971,7 +971,7 @@
         font-size: 28px
     }
   .table__wrapper{
-        right: 20px;
+        right: 30px;
     }
 }
 
@@ -1005,7 +1005,7 @@
   }
   .table__wrapper {
     max-width: 300px;
-    right: 30px;
+    right: 35px;
   }
   .table__howManyUsers {
     font-size: 25px;
@@ -1030,7 +1030,7 @@
   }
   .table__wrapper {
     max-width: 300px;
-    right: 3px;
+    right: 10px;
   }
    .slider__description {
     max-width: 310px;
