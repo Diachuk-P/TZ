@@ -1110,7 +1110,9 @@ display: none;
     }
 }
 @media screen and (max-width: 430px){
-    
+    .table__howManyUsers{
+        font-size: 28px
+    }
     .table__wrapper{
         right: -6px;
     }
