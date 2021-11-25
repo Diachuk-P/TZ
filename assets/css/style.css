@@ -968,6 +968,11 @@
 }
 
 @media screen and (max-width: 375px) {
+  .stages__completed-btn{
+        width: 270px;
+        margin: 0 auto;
+        margin-top: 70px;
+    }
   .stages {
     height: 700px;
   }
@@ -1011,7 +1016,7 @@
   }
 }
 
-@media screen and (max-width: 375px) and (max-width: 345px) {
+@media screen and (max-width: 345px) {
   .slider__info {
     max-width: 310px;
   }
