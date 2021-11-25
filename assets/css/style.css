@@ -834,7 +834,7 @@
   text-decoration: none;
 }
 
-@media screen and (max-width: 1331px) {
+@media screen and (max-width: 1355px) {
   .stages__wrapper {
     justify-content: center;
     padding-top: 30px;
