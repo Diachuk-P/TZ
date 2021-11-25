@@ -834,7 +834,7 @@
   text-decoration: none;
 }
 
-@media screen and (max-width: 1355px) {
+@media screen and (max-width: 1365px) {
   .header_info {
      display: flex;
     justify-content: center;
@@ -843,6 +843,9 @@
     justify-content: center;
     padding-top: 30px;
   }
+  .stages{
+        height: 720px;
+    }
 }
 
 @media screen and (max-width: 1029px) {
