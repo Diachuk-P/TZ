@@ -1118,6 +1118,11 @@ display: none;
     }
 }
 @media screen and (max-width: 375px){
+    .stages__completed-btn{
+        width: 270px;
+        margin: 0 auto;
+        margin-top: 70px;
+    }
     .stages{
         height: 700px;
     }
