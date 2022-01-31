@@ -835,10 +835,10 @@
 }
 
 @media screen and (max-width: 1400px) {
-//     .header_info {
+/* //     .header_info {
 //      display: flex;
 //     justify-content: center;
-//     }
+//     } */
   .stages__wrapper {
     justify-content: center;
     padding-top: 30px;
@@ -1072,3 +1072,9 @@
   text-align: center;
 }
 /*# sourceMappingURL=style.css.map */
+
+.timer-title{
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+}
